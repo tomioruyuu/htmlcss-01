@@ -19,7 +19,7 @@ body {
 
 #header {
     height: 70px;
-    background-color: black;
+    background-color: #ccc;
     color: white;
     position: fixed;
     top: 0;
